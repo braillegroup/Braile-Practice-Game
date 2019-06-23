@@ -11,7 +11,7 @@ Hook-up wires
 
 ### Description
 
-The idea is to create a braille practice game using LCD and 6 push buttons in 3x2 order, both of which are connected to Arduino. The LCD will show the alphabets one by one and a person has to enter the correct Braille pattern(pressing combination of buttons at the same time) using buttons in order to continue the game. The 7th button act as a check button.
+The idea is to create a braille practice game using LCD and 6 push buttons in 3x2 order, both of which are connected to Arduino. The LCD will show the alphabets randomly and a person has to enter the correct Braille pattern(pressing combination of buttons at the same time) using buttons in order to continue the game. The 7th button act as a check button.
 The program can be created by taking inputs from the buttons and then compare it. For example, for Alaphabet 'A' only the 1st button needs to pressed. Similarly for 'B', First and third button needed to be pressed at the same time. 
 
 ### Braille Chart
